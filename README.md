@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-### Hi there , I'm JustFelix-Dev!👋
+### <p align='center'> Hi there , I'm JustFelix-Dev!👋</p>
 
 
 - 🔭 I’m currently working on a **FullStack Project**
@@ -14,12 +14,20 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JustFelix-Dev&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div> <br/>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"  style="height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustFelix-Dev&theme=city_light&hide_border=false" alt="GitHub Streak" style="height: 200px; width: auto;" />
+</div>
+
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JustFelix-Dev&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
+<div style="display: flex; justify-content: center;margin:"0 auto"">
+  <img src="https://github-profile-trophy.vercel.app/?username=JustFelix-Dev&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 
 ## 🌐 Socials:
