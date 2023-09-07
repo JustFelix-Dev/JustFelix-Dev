@@ -18,14 +18,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div> <br/>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"  style="height: 200px; width: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustFelix-Dev&theme=city_light&hide_border=false" alt="GitHub Streak" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustFelix-Dev&theme=city_light&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"  style="height: 200px; width: '30%';" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustFelix-Dev&theme=city_light&hide_border=false" alt="GitHub Streak" style="height: 200px; width: '30%';" />
 </div>
 
 
 
 ## 🏆 GitHub Trophies
-<div style="display: flex; justify-content: center;margin:"0 auto"">
+<div style="display: flex; justify-content: center;margin:'0 auto'">
   <img src="https://github-profile-trophy.vercel.app/?username=JustFelix-Dev&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
