@@ -8,7 +8,7 @@
 - 💬 Ask me about **Personal Development and Growth**.
 - 📫 How to reach me: **owolabifelix78@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *My Favorite snack is Groundnut*
+- ⚡ Fun fact: *I can be a funny person*
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
