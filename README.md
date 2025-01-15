@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a **FullStack Project**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Flutter/Dart**
 - 👯 I’m looking to collaborate on **Front-End and Back-End Development**
 - 💬 Ask me about **Personal Development and Growth**.
 - 📫 How to reach me: **owolabifelix78@gmail.com**
